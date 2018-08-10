@@ -5,10 +5,10 @@ I've been looking for a way to showcase my incremental learning process while at
 This is the place where I will document my growth and progress as I commit myself to a personal challenge of 100 days of dev where I showcase my discoveries, projects, and achievements my personal journey deeper into UI/UX Design as well as Front End Development.
 
 Projects will be inspired from sites such as:
-http://collectui.com/designers/sudutlancip
-Codecademy Pro 
-Udacity
-https://pttrns.com/
+* http://collectui.com/designers/sudutlancip
+* Codecademy Pro 
+* Udacity
+* https://pttrns.com/
 
 
 ## Getting Started
