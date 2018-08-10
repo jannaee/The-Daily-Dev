@@ -13,7 +13,8 @@ Projects will be inspired from sites such as:
 
 ## Getting Started
 
-![Image of testfile](src/images/yaktocat.png)
+![Image of testfile](src/images/testimage.png)
+
 
 ### Prerequisites
 
