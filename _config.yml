@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/The-Daily-Dev/"
+baseurl: "/The-Daily-Dev"
 url: "https://jannaee.github.io"
 title: The Daily Dev # site's title
 description: "A website with blog posts and pages" # used by search engines
@@ -33,7 +33,7 @@ theme_settings:
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/jannaee/"
   pinterest:
   reddit:
   soundcloud:

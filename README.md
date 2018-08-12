@@ -26,9 +26,33 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+To download and run this site, you just first install Bundler, followed by Ruby and finally Jekyll.
 
-Say what the step will be
+If you do not already Ruby install it from https://www.ruby-lang.org/en/
+I built this site with the Ruby install Ruby+Devkit 2.4.X as x64.
+
+Installing Ruby:
+Open Git Bash.
+
+Check whether you have Ruby 2.1.0 or higher installed:
+
+ruby --version
+ruby 2.X.X
+If you don't have Ruby installed, install Ruby 2.1.0 or higher.
+
+Install Bundler:
+
+gem install bundler
+# Installs the Bundler gem
+
+
+Install Jekyll and other dependencies from the GitHub Pages gem:
+
+bundle install
+Fetching gem metadata from https://rubygems.org/............
+Fetching version metadata from https://rubygems.org/...
+Fetching dependency metadata from https://rubygems.org/..
+Resolving dependencies...
 
 ```
 Give the example

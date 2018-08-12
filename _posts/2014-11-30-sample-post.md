@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample post
-tags: [A Tag, Test, Lorem, Ipsum]
+title: Getting This Blog Started
+tags: [GitHub Themes, Jekyll, Themes]
 excerpt_separator: <!--more-->
 ---
 
@@ -10,9 +10,20 @@ Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt 
 <!--more-->
 Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
+* Install Ruby, choose unsure, (may require your editor to be restarted)
+* Install Bundler (gem install bundler)
+* Install Jekyll using Bundler 
+* Install Jekyll and Other dependencies (bundle install)
+* Workflow
+    
+    Add or stage changes use 'git add .'
+    Commit changes with comment 'git commit -m 'some change''
+    git push -u origin master
+
+* Preview locally
+    navigate to root directory and enter into termimnal
+    bundle exec jekyll serve 
+    this will appear on port 4000 for me its: http://127.0.0.1:4000/The-Daily-Dev/
 
 Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
 
