@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Always Be Selling - A lesson for developers
+title: Blogging with title
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
